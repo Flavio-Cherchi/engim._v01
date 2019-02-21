@@ -6,4 +6,4 @@ Git exercises for 2019
 * Create html pages
 * Create js page
 * Make breakfast!
-* be happy with drugs!!
+* be happy with flowers!!
